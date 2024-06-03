@@ -1,0 +1,5 @@
+/bsputil
+bsputil-test-*
+*.exe
+*.lst
+*.bsp
